@@ -8,8 +8,8 @@ includes the following components:
 
 ## Tools
 
-1.Excel
-2.Pivot Table
+1.Excel<br>
+2.Pivot Table<br>
 
 
 ## KPI's Requirement
